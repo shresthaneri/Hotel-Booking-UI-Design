@@ -1,3 +1,4 @@
 # Hotel Booking UI Design
-![IMG](Hotel booking ui.png)
-
+![IMG](hotelui1.png)
+![IMG](hotelui2.png)
+![IMG](completehotelui.png)
